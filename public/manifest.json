@@ -1,0 +1,15 @@
+{
+  "short_name": "Foody",
+  "name": "Foody is a online food delivery app. Foody provides information, menus and user-reviews of restaurants",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
