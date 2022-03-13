@@ -77,7 +77,7 @@ const TopBrands = () => {
         {topBrandsList &&
           topBrandsList.map((brand) => {
             return (
-              <div>
+              <div key={brand.id}>
                 <div className="top-brands-cover">
                   <img
                     src={brand.cover}
