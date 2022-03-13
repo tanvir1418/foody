@@ -58,10 +58,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹450 for two',
+        text: '৳450 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -101,7 +101,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -215,10 +215,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹600 for two',
+        text: '৳600 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Lalbagh, Lucknow',
@@ -257,7 +257,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -385,10 +385,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹500 for two',
+        text: '৳500 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Sahara Ganj Mall, Hazratganj, Lucknow',
@@ -422,7 +422,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -543,10 +543,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹400 for two',
+        text: '৳400 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Aliganj, Lucknow',
@@ -591,7 +591,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -629,7 +629,7 @@ export const restaurants = [
     checkBulkOffers: true,
     bulkOffers: [
       {
-        text: '₹75 OFF',
+        text: '৳75 OFF',
         color: {
           tint: '500',
           type: 'blue',
@@ -712,10 +712,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹800 for two',
+        text: '৳800 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -773,7 +773,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -811,7 +811,7 @@ export const restaurants = [
     checkBulkOffers: true,
     bulkOffers: [
       {
-        text: '₹75 OFF',
+        text: '৳75 OFF',
         color: {
           tint: '500',
           type: 'blue',
@@ -894,10 +894,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹350 for two',
+        text: '৳350 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Aminabad, Lucknow',
@@ -918,7 +918,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -1039,10 +1039,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹600 for two',
+        text: '৳600 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Indira Nagar, Lucknow',
@@ -1081,7 +1081,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -1119,7 +1119,7 @@ export const restaurants = [
     checkBulkOffers: true,
     bulkOffers: [
       {
-        text: '₹75 OFF',
+        text: '৳75 OFF',
         color: {
           tint: '500',
           type: 'blue',
@@ -1202,10 +1202,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹800 for two',
+        text: '৳800 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -1238,7 +1238,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -1359,10 +1359,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹350 for two',
+        text: '৳350 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -1395,7 +1395,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -1516,10 +1516,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹400 for two',
+        text: '৳400 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Sahara Ganj Mall, Hazratganj, Lucknow',
@@ -1552,7 +1552,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -1673,10 +1673,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹300 for two',
+        text: '৳300 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Chowk, Lucknow',
@@ -1697,7 +1697,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -1818,10 +1818,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹400 for two',
+        text: '৳400 for two',
       },
       cfo: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
       locality: {
         name: 'Riverside Mall, Gomti Nagar, Lucknow',
@@ -1860,7 +1860,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹250 for one',
+        text: '৳250 for one',
       },
     },
     order: {
@@ -1981,10 +1981,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹800 for two',
+        text: '৳800 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Indira Nagar, Lucknow',
@@ -2047,7 +2047,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -2175,10 +2175,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹400 for two',
+        text: '৳400 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -2211,7 +2211,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -2332,10 +2332,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹300 for two',
+        text: '৳300 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Aliganj, Lucknow',
@@ -2369,7 +2369,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -2497,10 +2497,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹250 for two',
+        text: '৳250 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Lalbagh, Lucknow',
@@ -2521,7 +2521,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -2642,10 +2642,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹1,100 for two',
+        text: '৳1,100 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -2702,7 +2702,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -2830,10 +2830,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹300 for two',
+        text: '৳300 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -2860,7 +2860,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -2981,10 +2981,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹200 for two',
+        text: '৳200 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -3012,7 +3012,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -3140,10 +3140,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹700 for two',
+        text: '৳700 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Lalbagh, Lucknow',
@@ -3182,7 +3182,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -3220,7 +3220,7 @@ export const restaurants = [
     checkBulkOffers: true,
     bulkOffers: [
       {
-        text: '₹75 OFF',
+        text: '৳75 OFF',
         color: {
           tint: '500',
           type: 'blue',
@@ -3303,10 +3303,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹300 for two',
+        text: '৳300 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Aminabad, Lucknow',
@@ -3339,7 +3339,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -3467,10 +3467,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹800 for two',
+        text: '৳800 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -3534,7 +3534,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -3655,10 +3655,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹700 for two',
+        text: '৳700 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Aliganj, Lucknow',
@@ -3721,7 +3721,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {
@@ -3849,10 +3849,10 @@ export const restaurants = [
         },
       },
       cft: {
-        text: '₹450 for two',
+        text: '৳450 for two',
       },
       cfo: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
       locality: {
         name: 'Aliganj, Lucknow',
@@ -3898,7 +3898,7 @@ export const restaurants = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹100 for one',
+        text: '৳100 for one',
       },
     },
     order: {

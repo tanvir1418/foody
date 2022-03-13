@@ -60,10 +60,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,700 for two',
+        text: '৳1,700 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -115,7 +115,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,700 for two',
+        text: '৳1,700 for two',
       },
     },
     order: [],
@@ -202,10 +202,10 @@ export const nightLife = [
         ratings: [],
       },
       cft: {
-        text: '₹1,200 for two',
+        text: '৳1,200 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Gomti Nagar, Lucknow',
@@ -245,7 +245,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,200 for two',
+        text: '৳1,200 for two',
       },
     },
     order: [],
@@ -344,10 +344,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,200 for two',
+        text: '৳1,200 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Gomti Nagar, Lucknow',
@@ -387,7 +387,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,200 for two',
+        text: '৳1,200 for two',
       },
     },
     order: [],
@@ -501,10 +501,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,100 for two',
+        text: '৳1,100 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -561,7 +561,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,100 for two',
+        text: '৳1,100 for two',
       },
     },
     order: [],
@@ -664,10 +664,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,200 for two',
+        text: '৳1,200 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Hotel Dayal Paradise, Gomti Nagar, Lucknow',
@@ -700,7 +700,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,200 for two',
+        text: '৳1,200 for two',
       },
     },
     order: [],
@@ -785,10 +785,10 @@ export const nightLife = [
         ratings: [],
       },
       cft: {
-        text: '₹1,100 for two',
+        text: '৳1,100 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Gomti Nagar, Lucknow',
@@ -840,7 +840,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,100 for two',
+        text: '৳1,100 for two',
       },
     },
     order: [],
@@ -933,10 +933,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,500 for two',
+        text: '৳1,500 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Royal Inn, Hazratganj, Lucknow',
@@ -993,7 +993,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,500 for two',
+        text: '৳1,500 for two',
       },
     },
     order: [],
@@ -1066,10 +1066,10 @@ export const nightLife = [
         ratings: [],
       },
       cft: {
-        text: '₹1,500 for two',
+        text: '৳1,500 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Gomti Nagar, Lucknow',
@@ -1114,7 +1114,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,500 for two',
+        text: '৳1,500 for two',
       },
     },
     order: [],
@@ -1207,10 +1207,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,300 for two',
+        text: '৳1,300 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'City Mall, Gomti Nagar, Lucknow',
@@ -1243,7 +1243,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,300 for two',
+        text: '৳1,300 for two',
       },
     },
     order: [],
@@ -1336,10 +1336,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,200 for two',
+        text: '৳1,200 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Hazratganj, Lucknow',
@@ -1384,7 +1384,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,200 for two',
+        text: '৳1,200 for two',
       },
     },
     order: [],
@@ -1477,10 +1477,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,500 for two',
+        text: '৳1,500 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Gomti Nagar, Lucknow',
@@ -1502,7 +1502,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,500 for two',
+        text: '৳1,500 for two',
       },
     },
     order: [],
@@ -1601,10 +1601,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹3,000 for two',
+        text: '৳3,000 for two',
       },
       cfo: {
-        text: '₹500 for one',
+        text: '৳500 for one',
       },
       locality: {
         name: 'Renaissance Lucknow Hotel, Lucknow',
@@ -1638,7 +1638,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹3,000 for two',
+        text: '৳3,000 for two',
       },
     },
     order: [],
@@ -1738,10 +1738,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,000 for two',
+        text: '৳1,000 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Gomti Nagar, Lucknow',
@@ -1762,7 +1762,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,000 for two',
+        text: '৳1,000 for two',
       },
     },
     order: [],
@@ -1855,10 +1855,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹400 for two',
+        text: '৳400 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Novotel, Gomti Nagar, Lucknow',
@@ -1879,7 +1879,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹400 for two',
+        text: '৳400 for two',
       },
     },
     order: [],
@@ -1980,10 +1980,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹700 for two',
+        text: '৳700 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Aishbagh, Lucknow',
@@ -2040,7 +2040,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹700 for two',
+        text: '৳700 for two',
       },
     },
     order: [],
@@ -2139,10 +2139,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,200 for two',
+        text: '৳1,200 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Gomti Nagar, Lucknow',
@@ -2188,7 +2188,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,200 for two',
+        text: '৳1,200 for two',
       },
     },
     order: [],
@@ -2281,10 +2281,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,100 for two',
+        text: '৳1,100 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Lineage Hotels, Gomti Nagar, Lucknow',
@@ -2324,7 +2324,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,100 for two',
+        text: '৳1,100 for two',
       },
     },
     order: [],
@@ -2417,10 +2417,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹2,200 for two',
+        text: '৳2,200 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Khurram Nagar, Lucknow',
@@ -2466,7 +2466,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹2,200 for two',
+        text: '৳2,200 for two',
       },
     },
     order: [],
@@ -2565,10 +2565,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,500 for two',
+        text: '৳1,500 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Hotel India Awadh, Hazratganj, Lucknow',
@@ -2613,7 +2613,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,500 for two',
+        text: '৳1,500 for two',
       },
     },
     order: [],
@@ -2712,10 +2712,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹2,200 for two',
+        text: '৳2,200 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Gomti Nagar, Lucknow',
@@ -2754,7 +2754,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹2,200 for two',
+        text: '৳2,200 for two',
       },
     },
     order: [],
@@ -2849,10 +2849,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹2,700 for two',
+        text: '৳2,700 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'The Piccadily Lucknow, Alambagh, Lucknow',
@@ -2874,7 +2874,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹2,700 for two',
+        text: '৳2,700 for two',
       },
     },
     order: [],
@@ -2975,10 +2975,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,700 for two',
+        text: '৳1,700 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Fortune Park BBD, Lucknow',
@@ -3029,7 +3029,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,700 for two',
+        text: '৳1,700 for two',
       },
     },
     order: [],
@@ -3130,10 +3130,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹1,500 for two',
+        text: '৳1,500 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Metropolitan Club, Gomti Nagar, Lucknow',
@@ -3173,7 +3173,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹1,500 for two',
+        text: '৳1,500 for two',
       },
     },
     order: [],
@@ -3274,10 +3274,10 @@ export const nightLife = [
         },
       },
       cft: {
-        text: '₹2,000 for two',
+        text: '৳2,000 for two',
       },
       cfo: {
-        text: '₹400 for one',
+        text: '৳400 for one',
       },
       locality: {
         name: 'Hotel Levana, Hazratganj, Lucknow',
@@ -3322,7 +3322,7 @@ export const nightLife = [
       ],
       should_ban_ugc: false,
       costText: {
-        text: '₹2,000 for two',
+        text: '৳2,000 for two',
       },
     },
     order: [],
