@@ -31,9 +31,9 @@
 }
 
 .active-tab {
-  border-bottom: 2px solid var(--zomato-red);
+  border-bottom: 2px solid var(--foody-red);
 }
 
 .active-tab .tab-name {
-  color: var(--zomato-red);
+  color: var(--foody-red);
 }

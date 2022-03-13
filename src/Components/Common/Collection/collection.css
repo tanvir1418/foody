@@ -20,7 +20,7 @@
 
 .collection-location {
   display: flex;
-  color: var(--zomato-red);
+  color: var(--foody-red);
 }
 
 .collection-cover {

@@ -17,3 +17,8 @@
   object-fit: cover;
   border-radius: inherit;
 }
+
+.top-brands-title {
+  text-align: center;
+  margin-top: 4px;
+}

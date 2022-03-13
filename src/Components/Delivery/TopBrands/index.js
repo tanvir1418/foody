@@ -84,6 +84,7 @@ const TopBrands = () => {
                     className="top-brands-image"
                     alt={brand.time}
                   />
+                  <div className="top-brands-title">{brand.time}</div>
                 </div>
               </div>
             );

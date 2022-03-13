@@ -39,11 +39,11 @@
 
 .location-icon-name {
   display: flex;
-  color: var(--zomato-gray);
+  color: var(--foody-gray);
 }
 
 .location-icon {
-  color: var(--zomato-red);
+  color: var(--foody-red);
   font-size: 20px;
   margin-right: 8px;
 }
@@ -60,7 +60,7 @@
 
 .search-icon {
   font-size: 20px;
-  color: var(--zomato-gray);
+  color: var(--foody-gray);
   margin: 0px 12px;
 }
 
